@@ -1,23 +1,5 @@
-# Projeto_front-end
 
-*Funcionais (Funções do sistema):*
-
-O sistema terá um cabeçalho, dividido e com opções interagiveis.
-Cada aluno terá um proprio link, que irá conter todos os projetos dele.
-
-
-
-
-*Não Funcionais (caracteristicas do sistema):*
-
-O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).
-O sistema será feito por React.
-
-
-
-
-
-#Detalhes   
+# Detalhes   
 
 
 - Na listagem dos projetos, precisam ser representados por pelos menos uma imagem. No detalhamento do projeto, pode conter mais de uma imagem, documentos e simblos que possa representar o projeto. Ao clicar nele o cliente será direcionado para outra página.  
@@ -52,6 +34,7 @@ O sistema será feito por React.
 
 - O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).  
 
+- Cada aluno terá um proprio link, que irá conter todos os projetos de si próprio.  
   
   
 
