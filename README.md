@@ -65,56 +65,50 @@ pos-consicao - estado do sistema depois do caso de uso (nota fisca foi emitida, 
   - Fluxo Principal = Após logar em sua conta o usuario tem que abertar no botao de "projetos"
   - pos = 
 
-- Buscar projetos / filtrar:
-  - Nome = 
-  - Atores = Usuarios e ADM
-  - Descrição = 
-  - pre = ter entrado no endereço do sistema 
-  - Fluxo Principal = 
+- ⁠Buscar projetos / filtrar:  
+  - Nome = Buscar projetos / filtrar.  
+  - Atores = Usuarios e ADM.  
+  - Descrição =  
+  - pre = ter entrado no endereço do sistema.  
+  - Fluxo Principal =  
   - pos =  
 
-
-- Editar (ADM):
-  - Nome = 
-  - Atores = ADM
-  - Descrição = 
-  - pre = 
-  - Fluxo Principal = 
-  - pos =  ter um botao de log-out
-
-
-- Contatar um membro do grupo do projeto:
-  - Nome = 
-  - Atores = Usuarios e ADM
-  - Descrição = 
-  - pre = 
-  - Fluxo Principal = 
-  - pos = 
-
-
-- Fazer Login:
-  - Nome = Fazer Login
-  - Atores = ADM
-  - Descrição = 
-  - pre = ter entrado no endereço do sistema 
-  - Fluxo Principal = botar email no lugar do email e botar a senha no lugar da senha. Logo apos, apertar no botão de "login".
-  - pos = será direcionado para a página de potifolios (pagina inicial) e terá um botão de Log-Out a penas para o ADM.
-
-
-- Exibir o "sobre-nós" (biografia do grupo):
-  - Nome = 
-  - Atores = Usuarios e ADM
-  - Descrição = 
+- Editar (ADM):  
+  - Nome = Editar.  
+  - Atores = ADM.
+  - Descrição =  
   - pre =  
-  - Fluxo Principal = 
-  - pos = 
+  - Fluxo Principal =  
+  - pos = ter um botao de log-out.  
 
+- ⁠Contatar um membro do grupo do projeto:  
+  - Nome = Contatar membro.  
+  - Atores = Cliente.
+  - Descrição =  
+  - pre =  
+  - Fluxo Principal =  
+  - pos =   
 
-- Encaminhar os projetos:
-  - Nome = 
-  - Atores = Usuarios e ADM
-  - Descrição = 
-  - pre = 
-  - Fluxo Principal = 
-  - pos = 
+- ⁠Fazer Login:  
+  - Nome = Fazer Login  
+  - Atores = ADM.    
+  - Descrição =  
+  - pre = ter entrado no endereço do sistema.  
+  - Fluxo Principal = botar email no lugar do email e botar a senha no lugar da senha. Logo apos, apertar no botão de "login".  
+  - pos = será direcionado para a página de potifolios (pagina inicial) e terá um botão de Log-Out a penas para o ADM.   
+  
+- Exibir o "sobre-nós" (biografia do grupo):   
+  - Nome = Biografia do grupo.  
+  - Atores = Usuarios e ADM.  
+  - Descrição =  
+  - pre =  
+  - Fluxo Principal =  
+  - pos =    
 
+- ⁠Encaminhar os projetos:
+  - Nome = Encaminhar os projetos.  
+  - Atores = Usuarios e ADM.  
+  - Descrição =  
+  - pre =  
+  - Fluxo Principal =  
+  - pos =   
