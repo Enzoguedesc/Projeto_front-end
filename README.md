@@ -107,7 +107,25 @@ pos-consicao - estado do sistema depois do caso de uso (nota fisca foi emitida, 
 
 - ⁠Encaminhar os projetos:
   - Nome = Encaminhar os projetos.  
-  - Atores = Usuarios e ADM.  
+  - Atores = Usuarios e ADM.
+ 
+      
+
+# ESQUELETO DO CASO DE USO
+
+casos de uso - exibir dealhes do projeto, por exemplo
+
+Nome
+
+Atores - papel do cliente (quem vai usar o sistema?). pode ter mais de um
+
+Descricao - Pq o caso ta sendo usado
+
+Pre-consicoes - qual o estado do sistema antes do caso de uso (tem que esta logado no sistema), (ter acessado o endereço)
+
+Fluxo principal - 
+
+pos-consicao - estado do sistema depois do caso de uso (nota fisca foi emitida, filme assistido, por ex)
   - Descrição =  
   - pre =  
   - Fluxo Principal =  
