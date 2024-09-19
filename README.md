@@ -28,9 +28,7 @@
 
 - ADM so cadrastra os projetos, adita e desativa.  
   
-- No sistema terá paginação (pagina 1 --> pagina 2), para ter acesso a mais projetos, sendo encaminhado para outra página. E a ordem de paginação é por ordem cronológica.  
-
-- Cada aluno terá um proprio link, que irá conter todos os projetos dele.  
+- No sistema terá paginação (pagina 1 --> pagina 2), para ter acesso a mais projetos, sendo encaminhado para outra página. E a ordem de paginação é por ordem cronológica.   
 
 - O sistema terá cores aderentes à identidade visual do Ibmec (Azul, Amarelo e branco).  
 
